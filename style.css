@@ -1,0 +1,46 @@
+body {background-color: rgb(138, 189, 247);
+}
+
+h1 {text-align: center;
+}
+
+h2 {margin-left: 8%;
+}
+
+#ima1 {margin-left: 12%;
+    border-style: groove;
+    border-width: 7px;
+    border-color: rgb(255, 255, 255)
+}
+
+#ima2 {margin-left: 12%;
+    border-style: groove;
+    border-width: 7px;
+    border-color: rgb(255, 255, 255)
+}
+
+#ima1 {width: 35%;
+}
+
+#ima2 {width: 43%;
+}
+
+h1 {background-color: rgb(158, 125, 189);
+color: white;
+border-style: groove;
+border-width: 5px
+}
+
+h2 {color: rgb(228, 33, 72);
+}
+
+h3 {color: rgb(228, 33, 72);
+    font-size: 150%;
+    margin-left: 8%;
+}
+
+h4 {color: rgb(20, 139, 194);
+    font-size: 150%;
+    margin-left: 8%;
+}
+
