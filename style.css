@@ -1,4 +1,4 @@
-body {background-color: rgb(138, 189, 247);
+body {background-color: rgb(255, 255, 255);
 }
 
 h1 {text-align: center;
@@ -25,22 +25,25 @@ h2 {margin-left: 8%;
 #ima2 {width: 43%;
 }
 
-h1 {background-color: rgb(158, 125, 189);
+h1 {background-color: rgb(255, 255, 255);
 color: white;
 border-style: groove;
 border-width: 5px
 }
 
-h2 {color: rgb(228, 33, 72);
+h2 {color: rgb(255, 255, 255);
 }
 
-h3 {color: rgb(228, 33, 72);
+h3 {color: rgb(255, 255, 255);
     font-size: 150%;
     margin-left: 8%;
 }
 
-h4 {color: rgb(242, 245, 82);
+h4 {color: rgb(255, 255, 255);
     font-size: 150%;
     margin-left: 8%;
 }
 
+
+h2 {border-style: initial;
+border-width: 12px;}
